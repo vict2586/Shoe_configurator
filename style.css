@@ -1,0 +1,11 @@
+.interact {
+  fill: transparent;
+}
+
+path {
+  stroke-width: 2;
+}
+
+#shadow {
+  pointer-events: none;
+}
